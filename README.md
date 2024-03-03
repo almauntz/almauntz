@@ -1,16 +1,17 @@
-### Hi there 👋
+# [Your Name]
 
-<!--
-**almauntz/almauntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Alma Secerbegovic, a passionate engineer and assistant professor from University of Tuzla. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Creating an interesting software engineering course for my students
+- 🌱 I’m always learning and exploring new technologies.
+
+
+## Technologies & Tools
+
+- Python, C, C++
+- Computer Vision, Machine Learning
+
+
+Thanks for stopping by! 😊
