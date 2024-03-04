@@ -1,4 +1,4 @@
-# [Your Name]
+# Alma Secerbegovic
 
 👋 Hi there! I'm Alma Secerbegovic, a passionate engineer and assistant professor from University of Tuzla. Welcome to my GitHub profile!
 
